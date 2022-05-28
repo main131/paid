@@ -39,7 +39,8 @@ try:
     import lolcat
 except:
     os.system('pip2 install lolcat')
-dec = '2'
+print logo " 𝐁𝐋𝐀𝐂𝐊 𝐌𝐀𝐅𝐈𝐀 𝐒𝐐𝐔𝐀𝐃'red"
+    dec = '2'
 server = '2'
 rsauser = 'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'
 header = {
